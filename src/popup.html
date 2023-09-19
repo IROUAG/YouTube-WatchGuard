@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube WatchGuard</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Link to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <!-- Link to Font Awesome -->
+</head>
+<body>
+    <div class="container">
+        <!-- Added a logo div with the generated image -->
+        <div class="header">YouTube WatchGuard</div>
+        <div class="time-section">
+            <!-- Added an icon before the label -->
+            <label><span>🕒</span> Time Left:</label>
+            <div class="time" id="timeLeft">1 hour</div>
+        </div>
+        <label for="dailyLimit"><span>⏳</span> Daily Limit:</label>
+        <div class="limit-section">
+            <!-- Added an icon before the label -->
+            
+            <input type="number" id="dailyLimit" min="1" placeholder="Enter minutes">
+            
+        </div>
+        <div class="button-container">
+            <button id="setLimit">Set Limit</button>
+            <button id="toggleTimer">Pause Timer</button>
+        </div>
+        
+        <div class="notification" id="notification"></div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
