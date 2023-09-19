@@ -1,6 +1,8 @@
 
 # YouTube WatchGuard
 
+![YouTube WatchGuard capture](./src/img/capture.png)
+
 **YouTube WatchGuard** is an open-source browser extension designed to help users manage and limit their YouTube watching time. By setting a daily limit, users can be more conscious about their time spent on the platform. Once the daily limit is reached, the extension prevents further access to YouTube for the day, encouraging a healthier online lifestyle.
 
 This extension is available for both Chrome and Firefox:
@@ -10,23 +12,23 @@ This extension is available for both Chrome and Firefox:
 
 *Note: Replace `#` with the actual links to the extension on both stores.*
 
-## Features
+##  🚀 Features
 
-- Set a daily watching limit for YouTube.
-- Monitor the amount of time spent on YouTube in real-time.
-- Automatically block access to YouTube once the daily limit is reached.
-- Pause and resume the timer at any point.
+- ⏳ Set a daily watching limit for YouTube.
+- ⏰ Monitor the amount of time spent on YouTube in real-time.
+-  🛑 Automatically block access to YouTube once the daily limit is reached.
+- ⏸️ Pause and resume the timer at any point.
 
 ## We Need Your Help!
 
 We're actively seeking contributions, especially around the YouTube Shorts feature. If you have expertise or interest in enhancing this feature or any other part of the extension, your contributions would be highly appreciated!
 
-## Getting Started for Developers
+##  📥 Getting Started for Developers
 
 1. **Clone the repository**
    
    ```
-   git clone https://your-gitlab-link-here.git
+   git clone https://gitlab.com/IROUAG/youtube-watchguard
    ```
 
 2. **Test the Extension**
@@ -47,10 +49,10 @@ We're actively seeking contributions, especially around the YouTube Shorts featu
 
    Check out the open issues, especially those labeled as "help wanted" or "good first issue". Feel free to also propose new features or improvements by opening a new issue.
 
-## Feedback and Suggestions
+##  🤝 Feedback and Suggestions
 
 Have ideas on how to make **YouTube WatchGuard** better? We'd love to hear from you! Open an issue to share your feedback, or propose changes through pull requests.
 
-## License
+## 📝 License
 
 This project is open-source, licensed under the MIT License. Check out the [LICENSE](LICENSE) file for more information.
