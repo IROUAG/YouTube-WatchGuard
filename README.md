@@ -5,12 +5,11 @@
 
 **YouTube WatchGuard** is an open-source browser extension designed to help users manage and limit their YouTube watching time. By setting a daily limit, users can be more conscious about their time spent on the platform. Once the daily limit is reached, the extension prevents further access to YouTube for the day, encouraging a healthier online lifestyle.
 
-This extension is available for both Chrome and Firefox:
+This extension is available for both Chrome and Firefox based navigator:
 
 - [Chrome Web Store](#)
-- [Firefox Add-ons](#)
+- [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youtube-watchguard/)
 
-*Note: Replace `#` with the actual links to the extension on both stores.*
 
 ##  🚀 Features
 
